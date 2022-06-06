@@ -22,10 +22,14 @@ This is python source code/data files for our paper ''Maximum Homogeneity Groupi
 ## Required python packages
 
 1. [category_encoders](https://contrib.scikit-learn.org/category_encoders/) 
-	conda install -c conda-forge category_encoders
+
+    conda install -c conda-forge category_encoders
+	
 2. [colorama](https://pypi.org/project/colorama/)
+
     conda install -c anaconda colorama
-    
+
+
 ## Run experiments
 
 1. Analyze datasets, generate variable importances. In src/ dir run (about 1 hour),
