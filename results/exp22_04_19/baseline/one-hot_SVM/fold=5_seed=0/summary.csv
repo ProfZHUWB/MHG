@@ -1,0 +1,276 @@
+exp_key,ds_name,train_samples,train_dim,test_samples,test_dim,hc_name,fold,algo_name,J,hc_cat_encoder,other_cat_encoder,measure,performance
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,AUC,0.763301696764718
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,Accuracy,0.8569576196000819
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,Precision,0.7521367521367521
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,Recall,0.5861569649580075
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,F1,0.6588541666666666
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,Aver_precision,0.5383928874648418
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,Balanced_accuracy,0.763301696764718
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,train_time(s),78.5708796977997
+RBFSVM_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,RBFSVM,42.0,one-hot,one-hot,pred_time(s),20.174972772598267
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,AUC,0.7610448879914008
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,Accuracy,0.8538183307172592
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,Precision,0.7538574577516532
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,Recall,0.5822928490351873
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,F1,0.6570605187319886
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,Aver_precision,0.5394230510909577
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,Balanced_accuracy,0.7610448879914008
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,train_time(s),77.26134300231935
+RBFSVM_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,RBFSVM,42.0,one-hot,one-hot,pred_time(s),19.87480902671814
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,AUC,0.7595549437053934
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,Accuracy,0.8542278031802362
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,Precision,0.7713643178410795
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,Recall,0.57421875
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,F1,0.6583493282149713
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,Aver_precision,0.5470743508024233
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,Balanced_accuracy,0.7595549437053934
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,train_time(s),75.75033950805664
+RBFSVM_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,RBFSVM,42.0,one-hot,one-hot,pred_time(s),19.759170055389408
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,AUC,0.7674793958686797
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,Accuracy,0.8581860369890125
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,Precision,0.7652874404979861
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,Recall,0.592571590586901
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,F1,0.6679450303611377
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,Aver_precision,0.5515562507550291
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,Balanced_accuracy,0.7674793958686796
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,train_time(s),76.75769066810608
+RBFSVM_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,RBFSVM,42.0,one-hot,one-hot,pred_time(s),20.005460500717163
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,AUC,0.7635365360364796
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,Accuracy,0.8553879751586706
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,Precision,0.7509144111192392
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,Recall,0.5880836436551131
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,F1,0.6595983935742972
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,Aver_precision,0.539737383257591
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,Balanced_accuracy,0.7635365360364796
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,train_time(s),77.05992150306702
+RBFSVM_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,RBFSVM,42.0,one-hot,one-hot,pred_time(s),19.906685352325443
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,AUC,0.8515954945775722
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,Accuracy,0.8877028181041845
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,Precision,0.8730407523510971
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,Recall,0.7537212449255751
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,F1,0.8090050835148874
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,Aver_precision,0.735740720546664
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,Balanced_accuracy,0.8515954945775723
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,train_time(s),28.808985948562626
+RBFSVM_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,RBFSVM,34.0,one-hot,one-hot,pred_time(s),11.421361446380615
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,AUC,0.8488550853628934
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,Accuracy,0.8838599487617421
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,Precision,0.8527131782945736
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,Recall,0.7565337001375516
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,F1,0.8017492711370262
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,Aver_precision,0.7206826863326118
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,Balanced_accuracy,0.8488550853628934
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,train_time(s),27.903371095657352
+RBFSVM_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,RBFSVM,34.0,one-hot,one-hot,pred_time(s),11.225954294204712
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,AUC,0.8542170473204956
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,Accuracy,0.8932536293766012
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,Precision,0.8861788617886179
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,Recall,0.7517241379310344
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,F1,0.8134328358208955
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,Aver_precision,0.7430194277796013
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,Balanced_accuracy,0.8542170473204955
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,train_time(s),28.60852837562561
+RBFSVM_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,RBFSVM,34.0,one-hot,one-hot,pred_time(s),11.424375534057615
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,AUC,0.8559055352604829
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,Accuracy,0.8842869342442357
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,Precision,0.8596237337192475
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,Recall,0.7734375
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,F1,0.8142563399588759
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,Aver_precision,0.7391607055023661
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,Balanced_accuracy,0.8559055352604829
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,train_time(s),28.407018899917606
+RBFSVM_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,RBFSVM,34.0,one-hot,one-hot,pred_time(s),11.284804344177244
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,AUC,0.8694266085567901
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,Accuracy,0.8979504696840307
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,Precision,0.8847858197932054
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,Recall,0.7881578947368421
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,F1,0.8336812804453723
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,Aver_precision,0.7660955917026925
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,Balanced_accuracy,0.8694266085567901
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,train_time(s),29.01143884658813
+RBFSVM_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,RBFSVM,34.0,one-hot,one-hot,pred_time(s),11.511147022247314
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,AUC,0.960630781841602
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,Accuracy,0.983387504514265
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,Precision,0.9668246445497629
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,Recall,0.9272727272727272
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,F1,0.9466357308584687
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,Aver_precision,0.908066643544916
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,Balanced_accuracy,0.960630781841602
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,train_time(s),6.44772481918335
+RBFSVM_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,RBFSVM,385.0,one-hot,one-hot,pred_time(s),2.56715989112854
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,AUC,0.9636169386169386
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,Accuracy,0.9819429396894186
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,Precision,0.9458823529411764
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,Recall,0.9370629370629372
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,F1,0.9414519906323184
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,Aver_precision,0.8961021083307744
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,Balanced_accuracy,0.9636169386169386
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,train_time(s),6.44777512550354
+RBFSVM_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,RBFSVM,385.0,one-hot,one-hot,pred_time(s),2.5282211303710938
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,AUC,0.9627923478183744
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,Accuracy,0.9844709281329
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,Precision,0.9776785714285714
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,Recall,0.929936305732484
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,F1,0.9532100108813928
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,Aver_precision,0.9210964587130821
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,Balanced_accuracy,0.9627923478183744
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,train_time(s),6.649277687072754
+RBFSVM_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,RBFSVM,385.0,one-hot,one-hot,pred_time(s),2.5491175651550293
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,AUC,0.9646849593495934
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,Accuracy,0.983387504514265
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,Precision,0.9551886792452832
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,Recall,0.9375
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,F1,0.9462616822429908
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,Aver_precision,0.9052401993601668
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,Balanced_accuracy,0.9646849593495934
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,train_time(s),6.54753851890564
+RBFSVM_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,RBFSVM,385.0,one-hot,one-hot,pred_time(s),2.583037614822388
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,AUC,0.9540798705335556
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,Accuracy,0.9826652221018418
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,Precision,0.9753694581280788
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,Recall,0.912442396313364
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,F1,0.9428571428571428
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,Aver_precision,0.9036918115012936
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,Balanced_accuracy,0.9540798705335556
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,train_time(s),6.748997449874878
+RBFSVM_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,RBFSVM,385.0,one-hot,one-hot,pred_time(s),2.6219351291656494
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,AUC,0.7457163328573703
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,Accuracy,0.74575
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,Precision,0.8078128264048464
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,Recall,0.6447149049683227
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,F1,0.7171070931849792
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,Aver_precision,0.6983923029411261
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,Balanced_accuracy,0.7457163328573704
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,train_time(s),1084.278534412384
+RBFSVM_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,RBFSVM,525.0,one-hot,one-hot,pred_time(s),293.6304533481598
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,AUC,0.7501105251473222
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,Accuracy,0.75125
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,Precision,0.8000408496732027
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,Recall,0.6613202768867128
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,F1,0.7240964969035956
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,Aver_precision,0.6962499028932301
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,Balanced_accuracy,0.7501105251473221
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,train_time(s),1081.7682235240936
+RBFSVM_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,RBFSVM,525.0,one-hot,one-hot,pred_time(s),301.4774510860443
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,AUC,0.7479578982877514
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,Accuracy,0.7476666666666667
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,Precision,0.8086292320396367
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,Recall,0.6508806912595547
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,F1,0.7212299760633402
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,Aver_precision,0.7014044868559749
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,Balanced_accuracy,0.7479578982877513
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,train_time(s),1114.1924448013306
+RBFSVM_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,RBFSVM,525.0,one-hot,one-hot,pred_time(s),300.5719244480133
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,AUC,0.7443191919640874
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,Accuracy,0.7449166666666667
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,Precision,0.7955147808358818
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,Recall,0.6546979865771813
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,F1,0.7182696732627705
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,Aver_precision,0.6923219253056394
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,Balanced_accuracy,0.7443191919640872
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,train_time(s),1117.5455102920532
+RBFSVM_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,RBFSVM,525.0,one-hot,one-hot,pred_time(s),300.6795902252197
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,AUC,0.750514071424851
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,Accuracy,0.7500833333333333
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,Precision,0.8170578373847444
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,Recall,0.6471369294605809
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,F1,0.7222376586088728
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,Aver_precision,0.7059149667435327
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,Balanced_accuracy,0.750514071424851
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,train_time(s),1109.0701367855072
+RBFSVM_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,RBFSVM,525.0,one-hot,one-hot,pred_time(s),303.7016792297363
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,AUC,0.515315727220455
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,Accuracy,0.6657777777777778
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,Precision,0.6689584049501547
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,Recall,0.9800235017626322
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,F1,0.7951511849632253
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,Aver_precision,0.6688171807750178
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,Balanced_accuracy,0.5153157272204552
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,train_time(s),2339.6345207691193
+RBFSVM_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,RBFSVM,763.0,one-hot,one-hot,pred_time(s),525.2538306713104
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,AUC,0.5168333333333334
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,Accuracy,0.6707777777777778
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,Precision,0.6743999081199036
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,Recall,0.9786666666666667
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,F1,0.7985313116203169
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,Aver_precision,0.6742349323022345
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,Balanced_accuracy,0.5168333333333334
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,train_time(s),2740.4141733646393
+RBFSVM_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,RBFSVM,763.0,one-hot,one-hot,pred_time(s),533.2943255901337
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,AUC,0.5156183854034375
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,Accuracy,0.6638888888888889
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,Precision,0.6685865683676996
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,Recall,0.9751344086021505
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,F1,0.7932754732454044
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,Aver_precision,0.6684062123890225
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,Balanced_accuracy,0.5156183854034374
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,train_time(s),2390.8941304683685
+RBFSVM_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,RBFSVM,763.0,one-hot,one-hot,pred_time(s),531.9399991035461
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,AUC,0.5184289759492601
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,Accuracy,0.6767777777777778
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,Precision,0.6807409111826968
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,Recall,0.9778549000165262
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,F1,0.8026860204842977
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,Aver_precision,0.6805547245306037
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,Balanced_accuracy,0.5184289759492601
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,train_time(s),2766.4884176254272
+RBFSVM_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,RBFSVM,763.0,one-hot,one-hot,pred_time(s),538.9143271446228
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,AUC,0.514697559704356
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,Accuracy,0.6674444444444444
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,Precision,0.6709817848550808
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,Recall,0.9797591167614587
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,F1,0.7964914666485347
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,Aver_precision,0.6708449653370855
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,Balanced_accuracy,0.514697559704356
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,train_time(s),2272.2235493659973
+RBFSVM_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,RBFSVM,763.0,one-hot,one-hot,pred_time(s),529.2432520389557
+RBFSVM_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,RBFSVM,3147.0,one-hot,one-hot,time_limit_exceeded,True
+RBFSVM_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,RBFSVM,3147.0,one-hot,one-hot,time_limit_exceeded,True
+RBFSVM_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,RBFSVM,3147.0,one-hot,one-hot,time_limit_exceeded,True
+RBFSVM_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,RBFSVM,3147.0,one-hot,one-hot,time_limit_exceeded,True
+RBFSVM_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,RBFSVM,3147.0,one-hot,one-hot,time_limit_exceeded,True
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,AUC,0.6310106256678473
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,Accuracy,0.631
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,Precision,0.623002193669696
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,Recall,0.6628876292097365
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,F1,0.6423263327948303
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,Aver_precision,0.5814804471541699
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,Balanced_accuracy,0.6310106256678473
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,train_time(s),679.4284319877625
+RBFSVM_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,RBFSVM,380.0,one-hot,one-hot,pred_time(s),216.71229457855225
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,AUC,0.6302260447283109
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,Accuracy,0.6296666666666667
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,Precision,0.6137167461171766
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,Recall,0.6738139456356576
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,F1,0.6423627877032029
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,Aver_precision,0.5745309022038919
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,Balanced_accuracy,0.6302260447283109
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,train_time(s),697.1910276412964
+RBFSVM_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,RBFSVM,380.0,one-hot,one-hot,pred_time(s),216.29833102226257
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,AUC,0.6220892654700558
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,Accuracy,0.6221666666666666
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,Precision,0.6175166297117517
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,Recall,0.6478896643403124
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,F1,0.6323386312033734
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,Aver_precision,0.5766659752818412
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,Balanced_accuracy,0.6220892654700558
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,train_time(s),697.3714818954468
+RBFSVM_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,RBFSVM,380.0,one-hot,one-hot,pred_time(s),215.57628560066223
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,AUC,0.6302907907018089
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,Accuracy,0.6300833333333333
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,Precision,0.6195190947666195
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,Recall,0.6614093959731544
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,F1,0.6397792745273067
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,Aver_precision,0.5779224169300918
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,Balanced_accuracy,0.6302907907018089
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,train_time(s),697.1582067012787
+RBFSVM_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,RBFSVM,380.0,one-hot,one-hot,pred_time(s),217.9459569454193
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,AUC,0.6361294466917828
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,Accuracy,0.63625
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,Precision,0.6306263770853006
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,Recall,0.6650622406639004
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,F1,0.6473867032878262
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,Aver_precision,0.5875724580327745
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,Balanced_accuracy,0.6361294466917828
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,train_time(s),699.0809557437897
+RBFSVM_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,RBFSVM,380.0,one-hot,one-hot,pred_time(s),223.12459301948547

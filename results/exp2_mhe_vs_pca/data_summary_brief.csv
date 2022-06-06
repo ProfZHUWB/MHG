@@ -1,0 +1,9 @@
+dataset,N,l,samples,p/n,hc_col,card(r),imp,rank(c),source_URL
+Adult,48842.0,14.0,48842.0,0.31,native-country,42 (1),0.005,13(7),http://archive.ics.uci.edu/ml/datasets/Adult
+Colleges,7804.0,25.0,7804.0,0.46,Carnegie Basic Classification,34 (3),0.052,2(2),https://beachpartyserver.azurewebsites.net/VueBigData/DataFiles/Colleges.txt
+Employ,9228.0,7.0,9228.0,0.19,Employee Position Title,385 (2),0.126,1(1),https://catalog.data.gov/dataset/employee-salaries-2016
+Crime,195110.0,19.0,195110.0,2.86,Crm Cd Desc,136 (4),0.145,1(1),https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z
+Traffic,1228389.0,17.0,40000.0,1.00,Charge,525 (2),0.310,1(1),https://catalog.data.gov/dataset/traffic-violations-56dda
+Visa,3002445.0,9.0,30000.0,2.00,SOC_NAME,763 (2),0.127,1(1),https://www.kaggle.com/nsharan/h-1b-visa/version/2
+Loan,199717.0,46.0,60000.0,1.00,employee_code_id,3147 (1),0.155,1(1),https://tianchi.aliyun.com/dataset/dataDetail?dataId=87219
+Road,117536.0,24.0,40000.0,1.00,Local_Authority_(District),380 (1),0.123,1(1),https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data

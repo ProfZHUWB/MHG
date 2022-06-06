@@ -1,0 +1,361 @@
+exp_key,ds_name,train_samples,train_dim,test_samples,test_dim,hc_name,fold,algo_name,J,hc_cat_encoder,other_cat_encoder,measure,performance
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,AUC,0.7536204671920897
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,Accuracy,0.8395550399235652
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,Precision,0.6848993288590604
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,Recall,0.5910802200984651
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,F1,0.6345406497745997
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,Aver_precision,0.50119296566786
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,Balanced_accuracy,0.7536204671920896
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,train_time(s),58.92835783958435
+NeuralNet_Adult_native-country_0_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,0.0,NeuralNet,42.0,one-hot,one-hot,pred_time(s),0.04088997840881348
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,AUC,0.7636281905655165
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,Accuracy,0.8349143520098273
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,Precision,0.66696887277123
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,Recall,0.6262769580022701
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,F1,0.6459827308649203
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,Aver_precision,0.5075864423447909
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,Balanced_accuracy,0.7636281905655165
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,train_time(s),73.73572587966919
+NeuralNet_Adult_native-country_1_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,1.0,NeuralNet,42.0,one-hot,one-hot,pred_time(s),0.03690195083618164
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,AUC,0.7675506618185602
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,Accuracy,0.8405104756705112
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,Precision,0.6929743113587125
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,Recall,0.6247209821428571
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,F1,0.6570799706529713
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,Aver_precision,0.5247056695090988
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,Balanced_accuracy,0.7675506618185601
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,train_time(s),63.46021270751953
+NeuralNet_Adult_native-country_2_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,2.0,NeuralNet,42.0,one-hot,one-hot,pred_time(s),0.04089069366455078
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,AUC,0.7540938904272584
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,Accuracy,0.8396232853340613
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,Precision,0.697549513259483
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,Recall,0.589169265664871
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,F1,0.6387949584998464
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,Aver_precision,0.5098623343008907
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,Balanced_accuracy,0.7540938904272585
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,train_time(s),64.76970934867859
+NeuralNet_Adult_native-country_3_42_one-hot,Adult,34189.0,105.0,14653.0,105.0,native-country,3.0,NeuralNet,42.0,one-hot,one-hot,pred_time(s),0.035904645919799805
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,AUC,0.7516175671939277
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,Accuracy,0.8327304988739507
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,Precision,0.6663467690339091
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,Recall,0.5966771698653681
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,F1,0.6295904488438869
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,Aver_precision,0.49368344227465594
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,Balanced_accuracy,0.7516175671939276
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,train_time(s),80.28320097923279
+NeuralNet_Adult_native-country_4_42_one-hot,Adult,34189.0,104.0,14653.0,104.0,native-country,4.0,NeuralNet,42.0,one-hot,one-hot,pred_time(s),0.03690218925476074
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,AUC,0.8258601725283362
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,Accuracy,0.8539709649871904
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,Precision,0.7791842475386779
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,Recall,0.7496617050067659
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,F1,0.7641379310344827
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,Aver_precision,0.6631169057855744
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,Balanced_accuracy,0.8258601725283361
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,train_time(s),56.91275334358215
+NeuralNet_Colleges_Carnegie Basic Classification_0_34_one-hot,Colleges,5462.0,2200.0,2342.0,2200.0,Carnegie Basic Classification,0.0,NeuralNet,34.0,one-hot,one-hot,pred_time(s),0.02293848991394043
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,AUC,0.8393925585871792
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,Accuracy,0.8650725875320239
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,Precision,0.7890295358649789
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,Recall,0.7716643741403026
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,F1,0.7802503477051461
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,Aver_precision,0.6797455730653992
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,Balanced_accuracy,0.8393925585871792
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,train_time(s),63.96388363838196
+NeuralNet_Colleges_Carnegie Basic Classification_1_34_one-hot,Colleges,5462.0,2175.0,2342.0,2175.0,Carnegie Basic Classification,1.0,NeuralNet,34.0,one-hot,one-hot,pred_time(s),0.020917892456054688
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,AUC,0.8422028874245623
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,Accuracy,0.8672075149444919
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,Precision,0.7907303370786517
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,Recall,0.776551724137931
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,F1,0.7835768963117606
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,Aver_precision,0.6832146547505568
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,Balanced_accuracy,0.8422028874245623
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,train_time(s),56.9127197265625
+NeuralNet_Colleges_Carnegie Basic Classification_2_34_one-hot,Colleges,5462.0,2176.0,2342.0,2176.0,Carnegie Basic Classification,2.0,NeuralNet,34.0,one-hot,one-hot,pred_time(s),0.022939205169677734
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,AUC,0.8439444025307075
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,Accuracy,0.8650725875320239
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,Precision,0.8013333333333333
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,Recall,0.7825520833333334
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,F1,0.7918313570487484
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,Aver_precision,0.6983916450208749
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,Balanced_accuracy,0.8439444025307073
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,train_time(s),69.50503396987915
+NeuralNet_Colleges_Carnegie Basic Classification_3_34_one-hot,Colleges,5462.0,2203.0,2342.0,2203.0,Carnegie Basic Classification,3.0,NeuralNet,34.0,one-hot,one-hot,pred_time(s),0.02293872833251953
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,AUC,0.8549138332557056
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,Accuracy,0.8778821520068317
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,Precision,0.8264462809917356
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,Recall,0.7894736842105263
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,F1,0.8075370121130551
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,Aver_precision,0.7207752674556085
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,Balanced_accuracy,0.8549138332557056
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,train_time(s),65.273353099823
+NeuralNet_Colleges_Carnegie Basic Classification_4_34_one-hot,Colleges,5462.0,2183.0,2342.0,2183.0,Carnegie Basic Classification,4.0,NeuralNet,34.0,one-hot,one-hot,pred_time(s),0.022938966751098633
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,AUC,0.9644433818650221
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,Accuracy,0.980498374864572
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,Precision,0.9366515837104072
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,Recall,0.9409090909090909
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,F1,0.9387755102040817
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,Aver_precision,0.890693661489022
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,Balanced_accuracy,0.964443381865022
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,train_time(s),20.04534411430359
+NeuralNet_EmployeeSalaries_Employee Position Title_0_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,0.0,NeuralNet,385.0,one-hot,one-hot,pred_time(s),0.015957355499267578
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,AUC,0.9604118104118103
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,Accuracy,0.9765258215962441
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,Precision,0.9136363636363637
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,Recall,0.9370629370629371
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,F1,0.9252013808975835
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,Aver_precision,0.8658855868843065
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,Balanced_accuracy,0.9604118104118105
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,train_time(s),15.110559463500977
+NeuralNet_EmployeeSalaries_Employee Position Title_1_385_one-hot,EmployeeSalaries,6459.0,1039.0,2769.0,1039.0,Employee Position Title,1.0,NeuralNet,385.0,one-hot,one-hot,pred_time(s),0.014960527420043945
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,AUC,0.9490778467013687
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,Accuracy,0.9729144095341279
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,Precision,0.9267241379310345
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,Recall,0.9129511677282378
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,F1,0.9197860962566845
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,Aver_precision,0.8608606733407592
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,Balanced_accuracy,0.9490778467013687
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,train_time(s),14.405431270599365
+NeuralNet_EmployeeSalaries_Employee Position Title_2_385_one-hot,EmployeeSalaries,6459.0,1054.0,2769.0,1054.0,Employee Position Title,2.0,NeuralNet,385.0,one-hot,one-hot,pred_time(s),0.015958070755004883
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,AUC,0.9637905315456664
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,Accuracy,0.9786926688335139
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,Precision,0.9229024943310657
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,Recall,0.9421296296296297
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,F1,0.9324169530355099
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,Aver_precision,0.8785223153236791
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,Balanced_accuracy,0.9637905315456663
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,train_time(s),21.255152463912964
+NeuralNet_EmployeeSalaries_Employee Position Title_3_385_one-hot,EmployeeSalaries,6459.0,1037.0,2769.0,1037.0,Employee Position Title,3.0,NeuralNet,385.0,one-hot,one-hot,pred_time(s),0.015919923782348633
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,AUC,0.9589323952278985
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,Accuracy,0.9797760924521488
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,Precision,0.9415887850467289
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,Recall,0.9285714285714286
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,F1,0.9350348027842227
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,Aver_precision,0.8855278206502374
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,Balanced_accuracy,0.9589323952278985
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,train_time(s),18.031731367111206
+NeuralNet_EmployeeSalaries_Employee Position Title_4_385_one-hot,EmployeeSalaries,6459.0,1046.0,2769.0,1046.0,Employee Position Title,4.0,NeuralNet,385.0,one-hot,one-hot,pred_time(s),0.01595616340637207
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,AUC,0.6998227942068124
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,Accuracy,0.7716843489997096
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,Precision,0.8451078856251864
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,Recall,0.8479466237202347
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,F1,0.8465248748219946
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,Aver_precision,0.8295170440735019
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,Balanced_accuracy,0.6998227942068123
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,train_time(s),1851.2307670116425
+NeuralNet_Crime_Crm Cd Desc_0_129_one-hot,Crime,136577.0,1974.0,58533.0,1974.0,Crm Cd Desc,0.0,NeuralNet,129.0,one-hot,one-hot,pred_time(s),0.42084836959838867
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,AUC,0.7072250253500054
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,Accuracy,0.772675243025302
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,Precision,0.8492104040873201
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,Recall,0.8429460580912863
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,F1,0.8460666358167516
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,Aver_precision,0.8322344418631187
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,Balanced_accuracy,0.7072250253500053
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,train_time(s),1924.9724740982056
+NeuralNet_Crime_Crm Cd Desc_1_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,1.0,NeuralNet,129.0,one-hot,one-hot,pred_time(s),0.37400102615356445
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,AUC,0.6980431089265328
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,Accuracy,0.7707959612526267
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,Precision,0.8447213505279795
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,Recall,0.8474778811903941
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,F1,0.8460973707153674
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,Aver_precision,0.8292716887530638
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,Balanced_accuracy,0.6980431089265329
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,train_time(s),1813.5645339488983
+NeuralNet_Crime_Crm Cd Desc_2_129_one-hot,Crime,136577.0,1969.0,58533.0,1969.0,Crm Cd Desc,2.0,NeuralNet,129.0,one-hot,one-hot,pred_time(s),0.4049549102783203
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,AUC,0.6973322902678314
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,Accuracy,0.7702663454803274
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,Precision,0.8437335409558268
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,Recall,0.8476350418698813
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,F1,0.8456797915925498
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,Aver_precision,0.8283279624099167
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,Balanced_accuracy,0.6973322902678314
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,train_time(s),1792.503872871399
+NeuralNet_Crime_Crm Cd Desc_3_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,3.0,NeuralNet,129.0,one-hot,one-hot,pred_time(s),0.391951322555542
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,AUC,0.7043641421135528
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,Accuracy,0.7732902806963593
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,Precision,0.8477494295789255
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,Recall,0.8466177181393422
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,F1,0.8471831959095306
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,Aver_precision,0.8315699942886554
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,Balanced_accuracy,0.7043641421135528
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,train_time(s),1768.5339632034302
+NeuralNet_Crime_Crm Cd Desc_4_129_one-hot,Crime,136577.0,1961.0,58533.0,1961.0,Crm Cd Desc,4.0,NeuralNet,129.0,one-hot,one-hot,pred_time(s),0.43982386589050293
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,AUC,0.6896582988509222
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,Accuracy,0.6896666666666667
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,Precision,0.6995436995436995
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,Recall,0.6645548516172057
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,F1,0.6816005471956225
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,Aver_precision,0.6325518261166811
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,Balanced_accuracy,0.6896582988509221
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,train_time(s),464.06657457351685
+NeuralNet_TrafficViolations_Charge_0_525_one-hot,TrafficViolations,28000.0,1178.0,12000.0,1178.0,Charge,0.0,NeuralNet,525.0,one-hot,one-hot,pred_time(s),0.07280635833740234
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,AUC,0.685465642383158
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,Accuracy,0.6851666666666667
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,Precision,0.6715725483922572
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,Recall,0.7087624514604086
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,F1,0.6896665023821258
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,Aver_precision,0.6197354057320101
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,Balanced_accuracy,0.685465642383158
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,train_time(s),499.82491302490234
+NeuralNet_TrafficViolations_Charge_1_525_one-hot,TrafficViolations,28000.0,1196.0,12000.0,1196.0,Charge,1.0,NeuralNet,525.0,one-hot,one-hot,pred_time(s),0.0737755298614502
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,AUC,0.6863680939795125
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,Accuracy,0.6864166666666667
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,Precision,0.6818255120141913
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,Recall,0.7025589896975739
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,F1,0.6920369915705049
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,Aver_precision,0.6281893095373879
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,Balanced_accuracy,0.6863680939795125
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,train_time(s),400.1026532649994
+NeuralNet_TrafficViolations_Charge_2_525_one-hot,TrafficViolations,28000.0,1206.0,12000.0,1206.0,Charge,2.0,NeuralNet,525.0,one-hot,one-hot,pred_time(s),0.07779192924499512
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,AUC,0.6896195386461621
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,Accuracy,0.6896666666666667
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,Precision,0.6894915254237288
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,Recall,0.6825503355704698
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,F1,0.6860033726812816
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,Aver_precision,0.6282793387176279
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,Balanced_accuracy,0.6896195386461621
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,train_time(s),415.0108046531677
+NeuralNet_TrafficViolations_Charge_3_525_one-hot,TrafficViolations,28000.0,1198.0,12000.0,1198.0,Charge,3.0,NeuralNet,525.0,one-hot,one-hot,pred_time(s),0.07380294799804688
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,AUC,0.6855195402697964
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,Accuracy,0.6855
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,Precision,0.6890643373089199
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,Recall,0.6808298755186722
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,F1,0.6849223576557022
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,Aver_precision,0.6293855869943883
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,Balanced_accuracy,0.6855195402697964
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,train_time(s),515.942791223526
+NeuralNet_TrafficViolations_Charge_4_525_one-hot,TrafficViolations,28000.0,1205.0,12000.0,1205.0,Charge,4.0,NeuralNet,525.0,one-hot,one-hot,pred_time(s),0.07079005241394043
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,AUC,0.556152591215244
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,Accuracy,0.6082222222222222
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,Precision,0.6989036164293896
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,Recall,0.7169716300151083
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,F1,0.7078223400729201
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,Aver_precision,0.6884273984281668
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,Balanced_accuracy,0.556152591215244
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,train_time(s),408.565016746521
+NeuralNet_H1BVisa_SOC_NAME_0_763_one-hot,H1BVisa,21000.0,3214.0,9000.0,3214.0,SOC_NAME,0.0,NeuralNet,763.0,one-hot,one-hot,pred_time(s),0.11668729782104492
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,AUC,0.5530833333333334
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,Accuracy,0.6237777777777778
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,Precision,0.6989951278928136
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,Recall,0.7651666666666667
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,F1,0.7305856142584342
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,Aver_precision,0.6914033275815401
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,Balanced_accuracy,0.5530833333333334
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,train_time(s),661.396692276001
+NeuralNet_H1BVisa_SOC_NAME_1_763_one-hot,H1BVisa,21000.0,3264.0,9000.0,3264.0,SOC_NAME,1.0,NeuralNet,763.0,one-hot,one-hot,pred_time(s),0.12463998794555664
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,AUC,0.5528982516298365
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,Accuracy,0.6006666666666667
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,Precision,0.6969595723354494
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,Recall,0.7009408602150538
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,F1,0.6989445468252639
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,Aver_precision,0.6863052199457036
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,Balanced_accuracy,0.5528982516298366
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,train_time(s),437.77487659454346
+NeuralNet_H1BVisa_SOC_NAME_2_763_one-hot,H1BVisa,21000.0,3262.0,9000.0,3262.0,SOC_NAME,2.0,NeuralNet,763.0,one-hot,one-hot,pred_time(s),0.11569070816040039
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,AUC,0.5460137660001887
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,Accuracy,0.6218888888888889
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,Precision,0.6998792270531401
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,Recall,0.7661543546521237
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,F1,0.7315187376725838
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,Aver_precision,0.6934377397595478
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,Balanced_accuracy,0.5460137660001887
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,train_time(s),480.18442583084106
+NeuralNet_H1BVisa_SOC_NAME_3_763_one-hot,H1BVisa,21000.0,3284.0,9000.0,3284.0,SOC_NAME,3.0,NeuralNet,763.0,one-hot,one-hot,pred_time(s),0.10671687126159668
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,AUC,0.5499033074947873
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,Accuracy,0.6043333333333333
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,Precision,0.696856165499267
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,Recall,0.7156239544998327
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,F1,0.7061153750928447
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,Aver_precision,0.6875758537610642
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,Balanced_accuracy,0.5499033074947873
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,train_time(s),634.7050693035126
+NeuralNet_H1BVisa_SOC_NAME_4_763_one-hot,H1BVisa,21000.0,3248.0,9000.0,3248.0,SOC_NAME,4.0,NeuralNet,763.0,one-hot,one-hot,pred_time(s),0.11170005798339844
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,AUC,0.5531834315873947
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,Accuracy,0.5532777777777778
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,Precision,0.5523075152491657
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,Recall,0.5362011173184358
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,F1,0.5441351550541415
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,Aver_precision,0.5267590178910828
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,Balanced_accuracy,0.5531834315873947
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,train_time(s),1740.6864907741547
+NeuralNet_AutoLoan_employee_code_id_0_3147_one-hot,AutoLoan,42000.0,5840.0,18000.0,5840.0,employee_code_id,0.0,NeuralNet,3147.0,one-hot,one-hot,pred_time(s),0.2962064743041992
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,AUC,0.5602155253971728
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,Accuracy,0.5602222222222222
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,Precision,0.5556421967249638
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,Recall,0.5595064498037017
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,F1,0.5575676279901632
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,Aver_precision,0.5290520595173812
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,Balanced_accuracy,0.5602155253971728
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,train_time(s),855.7637455463409
+NeuralNet_AutoLoan_employee_code_id_1_3147_one-hot,AutoLoan,42000.0,5824.0,18000.0,5824.0,employee_code_id,1.0,NeuralNet,3147.0,one-hot,one-hot,pred_time(s),0.2982044219970703
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,AUC,0.5518838212082594
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,Accuracy,0.552
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,Precision,0.5567649940132796
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,Recall,0.5616558691116723
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,F1,0.5591997376188914
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,Aver_precision,0.5344881043812614
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,Balanced_accuracy,0.5518838212082594
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,train_time(s),1753.8383083343506
+NeuralNet_AutoLoan_employee_code_id_2_3147_one-hot,AutoLoan,42000.0,5841.0,18000.0,5841.0,employee_code_id,2.0,NeuralNet,3147.0,one-hot,one-hot,pred_time(s),0.318148136138916
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,AUC,0.5580385727037809
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,Accuracy,0.5581111111111111
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,Precision,0.5608108108108109
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,Recall,0.5673649393605292
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,F1,0.5640688370053711
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,Aver_precision,0.536184391668405
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,Balanced_accuracy,0.5580385727037809
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,train_time(s),1325.0114300251007
+NeuralNet_AutoLoan_employee_code_id_3_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,3.0,NeuralNet,3147.0,one-hot,one-hot,pred_time(s),0.27426671981811523
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,AUC,0.5613043468383622
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,Accuracy,0.5610555555555555
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,Precision,0.5537233483877744
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,Recall,0.5907664724338861
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,F1,0.5716454323664949
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,Aver_precision,0.5300100781202142
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,Balanced_accuracy,0.5613043468383623
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,train_time(s),1229.608649969101
+NeuralNet_AutoLoan_employee_code_id_4_3147_one-hot,AutoLoan,42000.0,5835.0,18000.0,5835.0,employee_code_id,4.0,NeuralNet,3147.0,one-hot,one-hot,pred_time(s),0.31615352630615234
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,AUC,0.56817272979697
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,Accuracy,0.5681666666666667
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,Precision,0.5656159536828562
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,Recall,0.5863621207069023
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,F1,0.5758022265880812
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,Aver_precision,0.5384057701071366
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,Balanced_accuracy,0.56817272979697
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,train_time(s),159.25494503974915
+NeuralNet_RoadSafety_Local_Authority_(District)_0_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),0.0,NeuralNet,380.0,one-hot,one-hot,pred_time(s),0.052858591079711914
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,AUC,0.5689163362488228
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,Accuracy,0.5688333333333333
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,Precision,0.5617273776166145
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,Recall,0.5753840958973493
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,F1,0.5684737281067557
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,Aver_precision,0.532792332644058
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,Balanced_accuracy,0.5689163362488228
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,train_time(s),128.13023471832275
+NeuralNet_RoadSafety_Local_Authority_(District)_1_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),1.0,NeuralNet,380.0,one-hot,one-hot,pred_time(s),0.057817697525024414
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,AUC,0.5647888330994979
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,Accuracy,0.56475
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,Precision,0.5679835813237558
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,Recall,0.5518444666001994
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,F1,0.5597977243994944
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,Aver_precision,0.538188596473279
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,Balanced_accuracy,0.5647888330994979
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,train_time(s),156.9391405582428
+NeuralNet_RoadSafety_Local_Authority_(District)_2_380_one-hot,RoadSafety,28000.0,716.0,12000.0,716.0,Local_Authority_(District),2.0,NeuralNet,380.0,one-hot,one-hot,pred_time(s),0.05285835266113281
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,AUC,0.5739849548868838
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,Accuracy,0.5739166666666666
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,Precision,0.5692332842896844
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,Recall,0.5842281879194631
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,F1,0.5766332698517844
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,Aver_precision,0.539062130184007
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,Balanced_accuracy,0.5739849548868838
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,train_time(s),154.92456126213074
+NeuralNet_RoadSafety_Local_Authority_(District)_3_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),3.0,NeuralNet,380.0,one-hot,one-hot,pred_time(s),0.052858829498291016
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,AUC,0.5581270508168544
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,Accuracy,0.5581666666666667
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,Precision,0.5590975968612065
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,Recall,0.5676348547717842
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,F1,0.5633338823916983
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,Aver_precision,0.5344466165308979
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,Balanced_accuracy,0.5581270508168544
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,train_time(s),158.75228929519653
+NeuralNet_RoadSafety_Local_Authority_(District)_4_380_one-hot,RoadSafety,28000.0,717.0,12000.0,717.0,Local_Authority_(District),4.0,NeuralNet,380.0,one-hot,one-hot,pred_time(s),0.05285954475402832

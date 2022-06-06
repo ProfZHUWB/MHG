@@ -1,0 +1,1081 @@
+exp_key,ds_name,train_samples,train_dim,test_samples,test_dim,hc_name,fold,algo_name,J,hc_cat_encoder,other_cat_encoder,measure,performance
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,AUC,0.7841130900666087
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8691735480788917
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,Precision,0.7774566473988439
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,Recall,0.6232261801332175
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,F1,0.69185018485774
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5733186156330428
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7841130900666087
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,train_time(s),3.123697519302368
+GBDT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,GBDT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.01986384391784668
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,AUC,0.7820388317827593
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8677403944584726
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,Precision,0.7871107892831282
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,Recall,0.6169125993189557
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,F1,0.6916958320076361
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.577709867138444
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7820388317827593
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,train_time(s),3.2243423461914062
+GBDT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,GBDT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.017979145050048828
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,AUC,0.7789067314564162
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.865078823449123
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,Precision,0.7903867003975424
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,Recall,0.6102120535714286
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,F1,0.6887104393008975
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5776423300282432
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7789067314564162
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,train_time(s),3.123692750930786
+GBDT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,GBDT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.018926143646240234
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,AUC,0.7824920475573223
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8676039036374804
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,Precision,0.7859459459459459
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,Recall,0.6183725545789623
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,F1,0.6921612186607426
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5778657248833836
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7824920475573223
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,train_time(s),3.0218966007232666
+GBDT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,GBDT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.017947673797607422
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,AUC,0.7766785028037644
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8629632157237426
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,Precision,0.7658659017569022
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,Recall,0.6118590661701518
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,F1,0.6802547770700638
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5610745266828148
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7766785028037644
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,train_time(s),3.12365984916687
+GBDT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,GBDT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.018937110900878906
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,AUC,0.8033604954175063
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8501280956447481
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,Precision,0.8169934640522876
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,Recall,0.6765899864682002
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,F1,0.7401924500370096
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6548191271037146
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8033604954175062
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,train_time(s),1.9148995876312256
+GBDT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,GBDT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029697418212890625
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,AUC,0.8186601709387151
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8599487617421008
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,Precision,0.8151658767772512
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,Recall,0.7097661623108665
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,F1,0.7588235294117646
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6686710928131109
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.818660170938715
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,train_time(s),1.9149014949798584
+GBDT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,GBDT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.002969980239868164
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,AUC,0.8163798434734396
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8646456020495303
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,Precision,0.8445945945945946
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,Recall,0.6896551724137931
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,F1,0.7593014426727411
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6785507643159518
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8163798434734395
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,train_time(s),1.914975881576538
+GBDT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,GBDT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029006004333496094
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,AUC,0.8166039615099534
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8561058923996584
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,Precision,0.8330757341576507
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,Recall,0.7018229166666666
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,F1,0.7618374558303888
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6824513170417803
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8166039615099534
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,train_time(s),1.9150004386901855
+GBDT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,GBDT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.002894878387451172
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,AUC,0.8302623261694059
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8672075149444919
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,Precision,0.8437978560490046
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,Recall,0.725
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,F1,0.7799009200283086
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.7009934114766898
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8302623261694058
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,train_time(s),1.913978099822998
+GBDT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,GBDT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0028998851776123047
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,AUC,0.9584209961356805
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9812206572769953
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,Precision,0.9553990610328639
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,Recall,0.925
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,F1,0.9399538106235567
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8956617912603828
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9584209961356805
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.706167459487915
+GBDT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,GBDT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029289722442626953
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,AUC,0.9582167832167832
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9808595160707837
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,Precision,0.9497607655502392
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,Recall,0.9254079254079254
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,F1,0.9374262101534829
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8904726582804621
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9582167832167832
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.7062113285064697
+GBDT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,GBDT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0028917789459228516
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,AUC,0.9608341232752934
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9812206572769953
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,Precision,0.9584245076586433
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,Recall,0.9299363057324841
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,F1,0.9439655172413793
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9031914057805374
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9608341232752934
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.7051944732666016
+GBDT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,GBDT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029420852661132812
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,AUC,0.9700440973707982
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9844709281328999
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,Precision,0.951276102088167
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,Recall,0.9490740740740741
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,F1,0.9501738122827346
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9107765923147773
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9700440973707982
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.7051360607147217
+GBDT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,GBDT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029745101928710938
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,AUC,0.9617161211379627
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9844709281328999
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,Precision,0.9710843373493976
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,Recall,0.9285714285714286
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,F1,0.9493521790341578
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9129165477884297
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9617161211379627
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.7051618099212646
+GBDT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,GBDT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029692649841308594
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,AUC,0.7195810939485467
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.816257495771616
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,Precision,0.8467540177246321
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,Recall,0.9188542505464167
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,F1,0.8813319945713939
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.838300135737403
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7195810939485467
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,train_time(s),23.16807746887207
+GBDT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,GBDT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.08671426773071289
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,AUC,0.7186812265012136
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8133018980745904
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,Precision,0.8457931975108687
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,Recall,0.9148916551406178
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,F1,0.8789865343727853
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8368846684202759
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7186812265012137
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,train_time(s),23.06731605529785
+GBDT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,GBDT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.09074163436889648
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,AUC,0.7201748433879803
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8144978046572019
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,Precision,0.8482967513491606
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,Recall,0.9139147420429737
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,F1,0.8798840656666224
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8392689932346286
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7201748433879804
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,train_time(s),23.268728494644165
+GBDT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,GBDT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.08680105209350586
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,AUC,0.717704115575856
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8151470110877624
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,Precision,0.8458181510041521
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,Recall,0.9185147694855986
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,F1,0.8806687841891654
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8374093370764569
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7177041155758561
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,train_time(s),23.369549989700317
+GBDT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,GBDT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.08570480346679688
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,AUC,0.7225304407895528
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8161891582526096
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,Precision,0.8485455941311951
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,Recall,0.9158284806776072
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,F1,0.8809041499241745
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8395997990104259
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7225304407895526
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,train_time(s),22.564615488052368
+GBDT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,GBDT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.08679842948913574
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,AUC,0.7423852769316974
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7424166666666666
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,Precision,0.7985212569316081
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,Recall,0.648216072024008
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,F1,0.7155608723658782
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.693447645929214
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7423852769316974
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,train_time(s),3.224400281906128
+GBDT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,GBDT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.016931533813476562
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,AUC,0.7460886405430495
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7470833333333333
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,Precision,0.7869634340222575
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,Recall,0.6685801114300186
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,F1,0.7229575536284801
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6897314337432844
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7460886405430495
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,train_time(s),3.2234408855438232
+GBDT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,GBDT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.015894651412963867
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,AUC,0.7424739322653905
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.74225
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,Precision,0.7860355955407784
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,Recall,0.6678298438019276
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,F1,0.7221273919683765
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6915213623260864
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7424739322653904
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,train_time(s),3.2243971824645996
+GBDT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,GBDT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.01593470573425293
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,AUC,0.7428924618871949
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7434166666666666
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,Precision,0.7859837204685328
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,Recall,0.664261744966443
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,F1,0.7200145494225699
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6888489176736445
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.742892461887195
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,train_time(s),3.224487543106079
+GBDT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,GBDT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.016855478286743164
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,AUC,0.7469355370752965
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7465833333333334
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,Precision,0.7985194077631053
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,Recall,0.6624066390041494
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,F1,0.7241222897577793
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6984445570759424
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7469355370752965
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,train_time(s),3.2243945598602295
+GBDT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,GBDT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.01693129539489746
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,AUC,0.5388638015979454
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6556666666666666
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,Precision,0.6818066157760814
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,Recall,0.8996138996138996
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,F1,0.7757110805529419
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6798071528453207
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5388638015979456
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,train_time(s),1.814232587814331
+GBDT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,GBDT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.00891566276550293
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,AUC,0.5407500000000001
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.661
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,Precision,0.6873808616088448
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,Recall,0.9015
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,F1,0.7800129785853342
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6853405134070403
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.54075
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,train_time(s),1.8142316341400146
+GBDT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,GBDT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.009913921356201172
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,AUC,0.538054435483871
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6578888888888889
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,Precision,0.6806236640261537
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,Recall,0.9094422043010753
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,F1,0.7785688601222582
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6788767742003086
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.538054435483871
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,train_time(s),1.7124242782592773
+GBDT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,GBDT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.009968757629394531
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,AUC,0.5461706219413722
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6718888888888889
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,Precision,0.6954327529649256
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,Recall,0.9109238142455792
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,F1,0.7887243328325105
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6933751447710025
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5461706219413722
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,train_time(s),1.814194679260254
+GBDT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,GBDT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.009951591491699219
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,AUC,0.5384482236765338
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.659
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,Precision,0.6837185802703044
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,Recall,0.9054867848778856
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,F1,0.7791291831594098
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6818759167880083
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5384482236765338
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,train_time(s),1.814225673675537
+GBDT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,GBDT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.009919881820678711
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5984348282354394
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5982777777777778
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5904832087588168
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Recall,0.6267039106145251
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,F1,0.6080546371077024
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5556692471924747
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5984348282354394
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,train_time(s),14.506215572357178
+GBDT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,GBDT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.028900146484375
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,AUC,0.6031835864371853
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6028333333333333
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5915025906735751
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Recall,0.6402692091979809
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,F1,0.6149205494209534
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5568875626357936
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6031835864371853
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,train_time(s),14.303760766983032
+GBDT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,GBDT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.028906583786010742
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5976087657130698
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5978888888888889
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5989412387506617
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Recall,0.6211705281651477
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,F1,0.6098533850797758
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.563711312281303
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5976087657130698
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,train_time(s),14.405514478683472
+GBDT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,GBDT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.02690577507019043
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5985797906293098
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5987777777777777
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5975506756756757
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Recall,0.6240352811466373
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,F1,0.6105058785460037
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5623371483390778
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5985797906293098
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,train_time(s),14.40549111366272
+GBDT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,GBDT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.027898788452148438
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,AUC,0.6046848723434897
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6043888888888889
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5937597503900156
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Recall,0.6397355445988346
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,F1,0.6158908247478289
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5584603283877358
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6046848723434897
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,train_time(s),14.405488014221191
+GBDT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,GBDT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.028900861740112305
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,AUC,0.628756764306307
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.62875
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,Precision,0.6235784078167548
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,Recall,0.6490496832277426
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,F1,0.6360591454946491
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5801500347277915
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6287567643063072
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,train_time(s),5.641951560974121
+GBDT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,GBDT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.016897916793823242
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,AUC,0.6289727966586497
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.62825
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,Precision,0.6098257211538461
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,Recall,0.685294614215769
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,F1,0.6453613164798474
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5732436156503115
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6289727966586497
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,train_time(s),5.741670846939087
+GBDT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,GBDT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.016931772232055664
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,AUC,0.6243075354344856
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6244166666666666
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,Precision,0.6172954510169228
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,Recall,0.6606846128281821
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,F1,0.6382534713861465
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5780042727223804
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6243075354344856
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,train_time(s),5.84339165687561
+GBDT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,GBDT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.016932249069213867
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,AUC,0.6361299391084048
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6359166666666667
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,Precision,0.6248234740310685
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,Recall,0.6681208053691275
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,F1,0.6457471823562798
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.582290896016507
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6361299391084048
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,train_time(s),5.843369722366333
+GBDT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,GBDT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.016957759857177734
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,AUC,0.6371902289970311
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6373333333333333
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,Precision,0.6303162486368593
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,Recall,0.6715352697095436
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,F1,0.6502732240437159
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5881962586973277
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6371902289970313
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,train_time(s),5.842432737350464
+GBDT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,GBDT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.016903400421142578
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,AUC,0.7600260255057716
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.837098205145704
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,Precision,0.6678211586901763
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,Recall,0.6142484795829714
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,F1,0.6399155227032736
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.501111018139643
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7600260255057714
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,train_time(s),0.20254921913146973
+DT_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,DT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.0018951892852783203
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,AUC,0.7561554345290689
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8350508428308197
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,Precision,0.6756585211044113
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,Recall,0.6041430192962542
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,F1,0.6379026217228464
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.503396726595382
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7561554345290689
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,train_time(s),0.20255541801452637
+DT_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,DT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.0018966197967529297
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,AUC,0.7677660820559026
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8379853954821538
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,Precision,0.6828899637243047
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,Recall,0.6303013392857143
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,F1,0.6555426581543818
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5208516276275931
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7677660820559026
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,train_time(s),0.20255589485168457
+DT_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,DT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019040107727050781
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,AUC,0.7601598561641605
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8364839964512386
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,Precision,0.6771061697463201
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,Recall,0.6129855401190814
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,F1,0.6434523809523809
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5082112765071471
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7601598561641605
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,train_time(s),0.20151305198669434
+DT_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,DT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029327869415283203
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,AUC,0.7598238509334495
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8336859346208968
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,Precision,0.6613594611145132
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,Recall,0.6187338871383558
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,F1,0.6393369838685807
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5000401515414787
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7598238509334495
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,train_time(s),0.20155978202819824
+DT_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,DT,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.002886056900024414
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,AUC,0.7790218273078978
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.822801024765158
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,Precision,0.7484662576687117
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,Recall,0.6603518267929634
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,F1,0.7016534867002157
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6014244166503191
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7790218273078978
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,train_time(s),0.10178661346435547
+DT_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,DT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,AUC,0.795787429574016
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8351836037574722
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,Precision,0.7563909774436091
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,Recall,0.6918844566712518
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,F1,0.7227011494252874
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6189799085381738
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7957874295740159
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,train_time(s),0.10178732872009277
+DT_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,DT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,AUC,0.8036291130872412
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.840734415029889
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,Precision,0.7619047619047619
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,Recall,0.7062068965517241
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,F1,0.7329992841803864
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6290103051438779
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8036291130872412
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,train_time(s),0.10178565979003906
+DT_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,DT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,AUC,0.7704552824544685
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8146883005977796
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,Precision,0.7561349693251533
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,Recall,0.6419270833333334
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,F1,0.6943661971830986
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6028045231509739
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7704552824544685
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,train_time(s),0.10179352760314941
+DT_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,DT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,AUC,0.7925294430767182
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8240819812126388
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,Precision,0.7416666666666667
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,Recall,0.7026315789473684
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,F1,0.7216216216216216
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6176171400961842
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7925294430767184
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,train_time(s),0.1017615795135498
+DT_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,DT,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,AUC,0.9025244935399507
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9631635969664138
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,Precision,0.9470899470899471
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,Recall,0.8136363636363636
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,F1,0.8753056234718827
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8002003994961742
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9025244935399508
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.10081005096435547
+DT_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,DT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,AUC,0.924009324009324
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9729144095341279
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,Precision,0.9682539682539683
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,Recall,0.8531468531468531
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,F1,0.9070631970260223
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8488147220541586
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.924009324009324
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.10184884071350098
+DT_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,DT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,AUC,0.9189450255830326
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9635247381726255
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,Precision,0.9282407407407407
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,Recall,0.851380042462845
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,F1,0.8881506090808416
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8155655257024086
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9189450255830326
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.10185122489929199
+DT_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,DT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,AUC,0.9486952051538059
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9786926688335139
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,Precision,0.9559902200488998
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,Recall,0.9050925925925926
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,F1,0.9298454221165279
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8800664562118985
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9486952051538059
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.10182714462280273
+DT_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,DT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,AUC,0.9156331718292069
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9700252798844348
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,Precision,0.968
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,Recall,0.836405529953917
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,F1,0.8974042027194066
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8352815786364173
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9156331718292069
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,train_time(s),0.10185098648071289
+DT_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,DT,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.0
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,AUC,0.6971681389702011
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.7678061947960979
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,Precision,0.8442656955840324
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,Recall,0.8427700448636835
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,F1,0.8435172072352135
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8282764893666112
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6971681389702011
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,train_time(s),1.5120463371276855
+DT_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,DT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.016863584518432617
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,AUC,0.6995379357387291
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.7673278321630533
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,Precision,0.8450390706517958
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,Recall,0.8401106500691563
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,F1,0.8425676534846891
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8284235809361659
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6995379357387291
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,train_time(s),1.4112205505371094
+DT_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,DT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.016958951950073242
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,AUC,0.6971943675632444
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.7673620009225565
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,Precision,0.8450671714140622
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,Recall,0.8413190853728599
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,F1,0.8431889632299596
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8289387819174592
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6971943675632444
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,train_time(s),1.4112670421600342
+DT_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,DT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.01693892478942871
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,AUC,0.6895100556708482
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.7634155091999385
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,Precision,0.8399595996694519
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,Recall,0.8418146682617098
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,F1,0.8408861108557772
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8245625069209325
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6895100556708482
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,train_time(s),1.5120081901550293
+DT_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,DT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.016904115676879883
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,AUC,0.6962748283163944
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,Accuracy,0.7663881912767156
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,Precision,0.8437752580652611
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,Recall,0.840978663659171
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,F1,0.8423746397694526
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8276329686601522
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6962748283163944
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,train_time(s),1.4111967086791992
+DT_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,DT,129.0,TargetEncoder,TargetEncoder,pred_time(s),0.016950607299804688
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,AUC,0.7103235789248421
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7103333333333334
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,Precision,0.7232648725212465
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,Recall,0.6810603534511503
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,F1,0.701528421775717
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6520036963847881
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7103235789248421
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,train_time(s),0.2025444507598877
+DT_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,DT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.002892017364501953
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,AUC,0.6955683201269452
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.69575
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,Precision,0.6958620689655173
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,Recall,0.6814114469019078
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,F1,0.6885609485626547
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6314183792579483
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6955683201269454
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,train_time(s),0.20151281356811523
+DT_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,DT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019426345825195312
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,AUC,0.6974181100963242
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.6973333333333334
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,Precision,0.7104798870853917
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,Recall,0.6691591890993686
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,F1,0.689200753037823
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6413408117801382
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6974181100963242
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,train_time(s),0.20255184173583984
+DT_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,DT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019011497497558594
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,AUC,0.7006878083470376
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7008333333333333
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,Precision,0.7070954211814051
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,Recall,0.6788590604026845
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,F1,0.6926896079438453
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6395181332382491
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7006878083470376
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,train_time(s),0.20255756378173828
+DT_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,DT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.0018951892852783203
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,AUC,0.7070879702772617
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,Accuracy,0.707
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,Precision,0.71790863296856
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,Recall,0.6859751037344398
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,F1,0.7015786793413681
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6501341156391245
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7070879702772617
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,train_time(s),0.20255708694458008
+DT_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,DT,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.001895904541015625
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,AUC,0.5447382768533235
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6006666666666667
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,Precision,0.6910266774454324
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,Recall,0.7174752392143696
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,F1,0.7040026354801515
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6827945307036727
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5447382768533235
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,train_time(s),0.10178518295288086
+DT_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,DT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019381046295166016
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,AUC,0.5459166666666666
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6045555555555555
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,Precision,0.6961903230991802
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,Recall,0.7218333333333333
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,F1,0.7087799689059816
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.687977826001536
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5459166666666666
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,train_time(s),0.10181307792663574
+DT_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,DT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019307136535644531
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,AUC,0.542701851028702
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.5997777777777777
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,Precision,0.689028314028314
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,Recall,0.7195900537634409
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,F1,0.7039776462853385
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.681262365980612
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.542701851028702
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,train_time(s),0.10182619094848633
+DT_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,DT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019211769104003906
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,AUC,0.541773023568908
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.5988888888888889
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,Precision,0.6993955236072538
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,Recall,0.7074863658899355
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,F1,0.7034176799211305
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6914794639832512
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5417730235689081
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,train_time(s),0.10178828239440918
+DT_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,DT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.0019273757934570312
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,AUC,0.5447925207339774
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,Accuracy,0.602
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,Precision,0.6932258064516129
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,Recall,0.7189695550351288
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,F1,0.7058630316965019
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6850749162700511
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5447925207339774
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,train_time(s),0.10178136825561523
+DT_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,DT,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.001947164535522461
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5391407142195747
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5392222222222223
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,Precision,0.537562986715529
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,Recall,0.5244692737430168
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,F1,0.5309354145458659
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.518379713678265
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5391407142195747
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,train_time(s),0.8058593273162842
+DT_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,DT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.005961418151855469
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5466979307722201
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5468333333333333
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5433936340737349
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,Recall,0.5323611890072911
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,F1,0.5378208397076323
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5208927922455975
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5466979307722202
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,train_time(s),0.806901216506958
+DT_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,DT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.005917072296142578
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5451285700864064
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.545
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5520136131593875
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,Recall,0.5343142637531569
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,F1,0.5430197522597925
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5305598584080892
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5451285700864064
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,train_time(s),0.8069348335266113
+DT_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,DT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.0058901309967041016
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5474502778563147
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5473333333333333
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5527701465201466
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,Recall,0.5324145534729878
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,F1,0.5424014377176232
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.529913981843833
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5474502778563147
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,train_time(s),0.9076626300811768
+DT_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,DT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.00588679313659668
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,AUC,0.5435634768227423
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5437222222222222
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,Precision,0.5410745233968804
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,Recall,0.5247646795159121
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,F1,0.5327948119915809
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5195479099757
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5435634768227423
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,train_time(s),0.8068571090698242
+DT_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,DT,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.00596165657043457
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,AUC,0.5718248968694329
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.5718333333333333
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,Precision,0.5754915730337079
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,Recall,0.5465155051683894
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,F1,0.5606293825893621
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5411817344233346
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5718248968694329
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,train_time(s),0.3021976947784424
+DT_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,DT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.002985715866088867
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,AUC,0.569561553623651
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.5696666666666667
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,Precision,0.5644203021558309
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,Recall,0.5613709268951544
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,F1,0.5628914846791943
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.533349148179662
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5695615536236509
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,train_time(s),0.30324316024780273
+DT_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,DT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029306411743164062
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,AUC,0.5611001332345324
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.5610833333333334
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,Precision,0.5632687447346251
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,Recall,0.5555001661681622
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,F1,0.5593574834769515
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.535812547964083
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5611001332345324
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,train_time(s),0.3032402992248535
+DT_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,DT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029075145721435547
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,AUC,0.5705942486332726
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.5706666666666667
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,Precision,0.5688949522510232
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,Recall,0.5597315436241611
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,F1,0.5642760487144791
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5370951164501253
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5705942486332727
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,train_time(s),0.3032519817352295
+DT_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,DT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.0029287338256835938
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,AUC,0.5686810534905119
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,Accuracy,0.5685833333333333
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,Precision,0.5740999650471863
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,Recall,0.5452282157676348
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,F1,0.5592917340597598
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5413488329482723
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.568681053490512
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,train_time(s),0.3022634983062744
+DT_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,DT,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.002894163131713867
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,AUC,0.7843317017293451
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8670579403535112
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,Precision,0.7658071352878841
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,Recall,0.6278598320301187
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,F1,0.6900063653723743
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5685148918168625
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7843317017293451
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,train_time(s),2.31784725189209
+RF_Adult_native-country_0_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,0.0,RF,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.22434091567993164
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,AUC,0.7790096947886661
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8644646147546577
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,Precision,0.7754297994269341
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,Recall,0.6143586833144155
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,F1,0.6855604813172894
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5691375434429524
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.779009694788666
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,train_time(s),2.316807746887207
+RF_Adult_native-country_1_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,1.0,RF,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.22638368606567383
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,AUC,0.7797917290123317
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8638504060601925
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,Precision,0.7816377171215881
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,Recall,0.615234375
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,F1,0.6885245901639344
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5750008134439099
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7797917290123317
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,train_time(s),2.4185056686401367
+RF_Adult_native-country_2_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,2.0,RF,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.22540926933288574
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,AUC,0.7847778221583419
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,Accuracy,0.867399167405992
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,Precision,0.7800565770862801
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,Recall,0.6254607314998583
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,F1,0.6942564909520063
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5780469445810666
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7847778221583419
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,train_time(s),2.3168535232543945
+RF_Adult_native-country_3_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,3.0,RF,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.23232650756835938
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,AUC,0.7824499541170474
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,Accuracy,0.8627584794922541
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,Precision,0.7541208791208791
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,Recall,0.6290461185906617
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,F1,0.6859284710292051
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,Aver_precision,0.5627546185516732
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7824499541170474
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,train_time(s),2.3168141841888428
+RF_Adult_native-country_4_42_TargetEncoder,Adult,34189.0,14.0,14653.0,14.0,native-country,4.0,RF,42.0,TargetEncoder,TargetEncoder,pred_time(s),0.22337985038757324
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,AUC,0.8190710584095957
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8646456020495303
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,Precision,0.8481848184818482
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,Recall,0.6955345060893099
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,F1,0.7643122676579925
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.6860135423562822
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8190710584095957
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,train_time(s),1.008324146270752
+RF_Colleges_Carnegie Basic Classification_0_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,0.0,RF,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.03190016746520996
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,AUC,0.8342750435438057
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8757472245943638
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,Precision,0.8527508090614887
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,Recall,0.7248968363136176
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,F1,0.7836431226765799
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.70355346015127
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8342750435438057
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,train_time(s),1.0073256492614746
+RF_Colleges_Carnegie Basic Classification_1_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,1.0,RF,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.03188681602478027
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,AUC,0.8400191926300301
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8825789923142613
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,Precision,0.8712871287128713
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,Recall,0.7282758620689656
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,F1,0.7933884297520661
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.7186535248241983
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8400191926300301
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,train_time(s),1.1090402603149414
+RF_Colleges_Carnegie Basic Classification_2_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,2.0,RF,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.03290510177612305
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,AUC,0.8317698406395594
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8697694278394534
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,Precision,0.8589147286821706
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,Recall,0.7213541666666666
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,F1,0.7841472045293701
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.7109566115998825
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8317698406395595
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,train_time(s),1.0083286762237549
+RF_Colleges_Carnegie Basic Classification_3_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,3.0,RF,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.031919002532958984
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,AUC,0.8509539889546877
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,Accuracy,0.8868488471391973
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,Precision,0.8849144634525661
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,Recall,0.7486842105263158
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,F1,0.8111190306486101
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,Aver_precision,0.7440757136095795
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.8509539889546877
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,train_time(s),1.1091265678405762
+RF_Colleges_Carnegie Basic Classification_4_34_TargetEncoder,Colleges,5462.0,25.0,2342.0,25.0,Carnegie Basic Classification,4.0,RF,34.0,TargetEncoder,TargetEncoder,pred_time(s),0.03383493423461914
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,AUC,0.9440146961239705
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9786926688335139
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,Precision,0.9703703703703703
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,Recall,0.8931818181818182
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,F1,0.9301775147928995
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.8836908084091182
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9440146961239705
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,train_time(s),0.4029378890991211
+RF_EmployeeSalaries_Employee Position Title_0_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,0.0,RF,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.023912906646728516
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,AUC,0.9674436674436675
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9851932105453233
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,Precision,0.9619047619047619
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,Recall,0.9417249417249417
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,F1,0.9517078916372202
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9148782360049965
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9674436674436675
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,train_time(s),0.4039270877838135
+RF_EmployeeSalaries_Employee Position Title_1_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,1.0,RF,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.02390265464782715
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,AUC,0.9576757412981657
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9815817984832069
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,Precision,0.96875
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,Recall,0.921443736730361
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,F1,0.9445048966267683
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9060108445873675
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9576757412981657
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,train_time(s),0.4039590358734131
+RF_EmployeeSalaries_Employee Position Title_2_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,2.0,RF,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.02387690544128418
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,AUC,0.9667858246564923
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9837486457204767
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,Precision,0.9531615925058547
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,Recall,0.9421296296296297
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,F1,0.9476135040745052
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9070303082800196
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9667858246564922
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,train_time(s),0.4029874801635742
+RF_EmployeeSalaries_Employee Position Title_3_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,3.0,RF,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.022885560989379883
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,AUC,0.9628681948706815
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,Accuracy,0.9848320693391116
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,Precision,0.9711538461538461
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,Recall,0.9308755760368663
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,F1,0.9505882352941177
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,Aver_precision,0.9148576321452286
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.9628681948706815
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,train_time(s),0.4039793014526367
+RF_EmployeeSalaries_Employee Position Title_4_385_TargetEncoder,EmployeeSalaries,6459.0,7.0,2769.0,7.0,Employee Position Title,4.0,RF,385.0,TargetEncoder,TargetEncoder,pred_time(s),0.024880409240722656
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,AUC,0.7322268883992629
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8239625510395845
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,Precision,0.853310319844872
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,Recall,0.921316001380421
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,F1,0.8860101334159346
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8445970305665741
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7322268883992629
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,train_time(s),22.160715579986572
+RF_Crime_Crm Cd Desc_0_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,0.0,RF,129.0,TargetEncoder,TargetEncoder,pred_time(s),1.199784278869629
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,AUC,0.7345340870287657
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8241333948371005
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,Precision,0.8537701552542662
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,Recall,0.9203319502074688
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,F1,0.8858024006567417
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8447955684355982
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7345340870287658
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,train_time(s),20.951999187469482
+RF_Crime_Crm Cd Desc_1_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,1.0,RF,129.0,TargetEncoder,TargetEncoder,pred_time(s),1.227665662765503
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,AUC,0.731932892754364
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8241675635966036
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,Precision,0.8536995635047375
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,Recall,0.9213834310008043
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,F1,0.8862511052166225
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8450302959960841
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.731932892754364
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,train_time(s),21.053738117218018
+RF_Crime_Crm Cd Desc_2_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,2.0,RF,129.0,TargetEncoder,TargetEncoder,pred_time(s),1.2306487560272217
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,AUC,0.7340389125726803
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8259443390907694
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,Precision,0.8540425531914894
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,Recall,0.9234379313517991
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,F1,0.8873855949064864
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8455121044188596
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7340389125726802
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,train_time(s),21.053695917129517
+RF_Crime_Crm Cd Desc_3_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,3.0,RF,129.0,TargetEncoder,TargetEncoder,pred_time(s),1.2276933193206787
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,AUC,0.7364253601773322
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,Accuracy,0.8262176891667948
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,Precision,0.855357867532412
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,Recall,0.9217437337445623
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,F1,0.8873108368599473
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,Aver_precision,0.8465076456625289
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7364253601773322
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,train_time(s),20.449275732040405
+RF_Crime_Crm Cd Desc_4_129_TargetEncoder,Crime,136577.0,19.0,58533.0,19.0,Crm Cd Desc,4.0,RF,129.0,TargetEncoder,TargetEncoder,pred_time(s),1.2337276935577393
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,AUC,0.7491395832377314
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7491666666666666
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,Precision,0.7973726114649682
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,Recall,0.667889296432144
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,F1,0.7269098167301761
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.698556632465599
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7491395832377314
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,train_time(s),2.7207279205322266
+RF_TrafficViolations_Charge_0_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,0.0,RF,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.2034149169921875
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,AUC,0.7546061683325568
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7555
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,Precision,0.791609756097561
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,Recall,0.6849569474928245
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,F1,0.7344315713251266
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6977186021421247
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7546061683325567
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,train_time(s),2.7207324504852295
+RF_TrafficViolations_Charge_1_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,1.0,RF,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.2014462947845459
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,AUC,0.7487768223247343
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7485833333333334
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,Precision,0.7866284622731614
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,Recall,0.6842804918577601
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,F1,0.7318937172309606
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.6966078444069257
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7487768223247342
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,train_time(s),2.7207376956939697
+RF_TrafficViolations_Charge_2_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,2.0,RF,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.20842647552490234
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,AUC,0.7512817236321614
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,Accuracy,0.75175
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,Precision,0.7901498929336188
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,Recall,0.6810402684563759
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,F1,0.7315490673154906
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.696540561870955
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7512817236321614
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,train_time(s),2.719771385192871
+RF_TrafficViolations_Charge_3_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,3.0,RF,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.20439481735229492
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,AUC,0.7501512179030885
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,Accuracy,0.7498333333333334
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,Precision,0.7965469884245635
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,Recall,0.6738589211618258
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,F1,0.7300845171731704
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,Aver_precision,0.7005102942744776
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.7501512179030887
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,train_time(s),2.7207722663879395
+RF_TrafficViolations_Charge_4_525_TargetEncoder,TrafficViolations,28000.0,13.0,12000.0,13.0,Charge,4.0,RF,525.0,TargetEncoder,TargetEncoder,pred_time(s),0.20140337944030762
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,AUC,0.5521565137290465
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6541111111111111
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,Precision,0.6899545818861875
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,Recall,0.8670471713949974
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,F1,0.7684296659971731
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6862231686154371
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5521565137290465
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,train_time(s),1.914933204650879
+RF_H1BVisa_SOC_NAME_0_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,0.0,RF,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.1495370864868164
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,AUC,0.5543333333333333
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6613333333333333
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,Precision,0.6954449152542372
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,Recall,0.8753333333333333
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,F1,0.7750885478158206
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6918572269303201
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5543333333333333
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,train_time(s),1.9139389991760254
+RF_H1BVisa_SOC_NAME_1_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,1.0,RF,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.15253376960754395
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,AUC,0.5572824062314791
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6606666666666666
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,Precision,0.6919205298013245
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,Recall,0.8776881720430108
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,F1,0.7738112872167086
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6881793538892449
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5572824062314792
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,train_time(s),1.8141188621520996
+RF_H1BVisa_SOC_NAME_2_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,2.0,RF,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.15161514282226562
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,AUC,0.5554801817645975
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6648888888888889
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,Precision,0.7015539912338956
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,Recall,0.8729135680052884
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,F1,0.7779086892488954
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6978404420807751
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5554801817645973
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,train_time(s),1.8131661415100098
+RF_H1BVisa_SOC_NAME_3_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,3.0,RF,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.1535651683807373
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,AUC,0.5503907555145394
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,Accuracy,0.6538888888888889
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,Precision,0.69124916499666
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,Recall,0.8655068584810973
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,F1,0.7686251207011809
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,Aver_precision,0.6876142265572742
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5503907555145394
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,train_time(s),1.8131444454193115
+RF_H1BVisa_SOC_NAME_4_763_TargetEncoder,H1BVisa,21000.0,7.0,9000.0,7.0,SOC_NAME,4.0,RF,763.0,TargetEncoder,TargetEncoder,pred_time(s),0.1495985984802246
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,AUC,0.5987002685268065
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.5986111111111111
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,Precision,0.592951826705464
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,Recall,0.6147486033519554
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,F1,0.6036535191178891
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5560718628777301
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.5987002685268064
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,train_time(s),7.756297826766968
+RF_AutoLoan_employee_code_id_0_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,0.0,RF,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.3510100841522217
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,AUC,0.6036981385067989
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6035
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,Precision,0.5949786324786325
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,Recall,0.6246775098149187
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,F1,0.6094664842681258
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5575586594187267
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6036981385067989
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,train_time(s),7.655534982681274
+RF_AutoLoan_employee_code_id_1_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,1.0,RF,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.3550286293029785
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,AUC,0.6018135267045339
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6019444444444444
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,Precision,0.6053145336225596
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,Recall,0.61282529922038
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,F1,0.6090467616085556
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5668409490785787
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6018135267045339
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,train_time(s),7.656522989273071
+RF_AutoLoan_employee_code_id_2_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,2.0,RF,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.3370821475982666
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,AUC,0.6007904181857915
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6008888888888889
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,Precision,0.602034191733391
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,Recall,0.6134509371554575
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,F1,0.6076889471384883
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5640962168962549
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6007904181857915
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,train_time(s),7.856991767883301
+RF_AutoLoan_employee_code_id_3_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,3.0,RF,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.34107041358947754
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,AUC,0.6024713317828689
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,Accuracy,0.6022777777777778
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,Precision,0.59391295094179
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,Recall,0.6253922008068131
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,F1,0.6092462201844878
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,Aver_precision,0.5571507496993771
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6024713317828689
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,train_time(s),7.757300138473511
+RF_AutoLoan_employee_code_id_4_3147_TargetEncoder,AutoLoan,42000.0,46.0,18000.0,46.0,employee_code_id,4.0,RF,3147.0,TargetEncoder,TargetEncoder,pred_time(s),0.3470127582550049
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,AUC,0.6232588192509798
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,Accuracy,0.62325
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,Precision,0.6169067595377553
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,Recall,0.6497165721907302
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,F1,0.6328867235079172
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5758978785014948
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6232588192509799
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,train_time(s),3.424842596054077
+RF_RoadSafety_Local_Authority_(District)_0_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),0.0,RF,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.20946073532104492
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,AUC,0.6272148543575412
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6266666666666667
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,Precision,0.6111196673340521
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,Recall,0.6699307783217964
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,F1,0.6391752577319588
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5723245410515255
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6272148543575413
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,train_time(s),3.425851821899414
+RF_RoadSafety_Local_Authority_(District)_1_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),1.0,RF,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.2163996696472168
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,AUC,0.6158910430193872
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,Accuracy,0.616
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,Precision,0.609472049689441
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,Recall,0.6522100365569957
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,F1,0.6301171937710709
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5719204544750841
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6158910430193871
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,train_time(s),3.424852132797241
+RF_RoadSafety_Local_Authority_(District)_2_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),2.0,RF,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.215407133102417
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,AUC,0.6263161696075381
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6260833333333333
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,Precision,0.6149165236386331
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,Recall,0.661241610738255
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,F1,0.6372382569326542
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5748583925603781
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6263161696075381
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,train_time(s),3.4248433113098145
+RF_RoadSafety_Local_Authority_(District)_3_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),3.0,RF,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.21541380882263184
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,AUC,0.6270233858226705
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,Accuracy,0.6271666666666667
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,Precision,0.6208132107804955
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,Recall,0.6614107883817427
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,F1,0.6404693024750884
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,Aver_precision,0.5806125551801286
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,Balanced_accuracy,0.6270233858226706
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,train_time(s),3.4258499145507812
+RF_RoadSafety_Local_Authority_(District)_4_380_TargetEncoder,RoadSafety,28000.0,24.0,12000.0,24.0,Local_Authority_(District),4.0,RF,380.0,TargetEncoder,TargetEncoder,pred_time(s),0.20941829681396484
