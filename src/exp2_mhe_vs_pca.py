@@ -406,67 +406,6 @@ def merge_result(exp_summary_file, data_hc_Jlst=data_hc_Jlst):
    
  
 if __name__ == '__main__': 
-    ####################### Bug: all five fold use the first-fold data ####################
-    #
-    # # Use multiple computers to speedup, each computer run experiments for one or two datasets
-    # # Since kNN and SVM are very slow for last datasets, for Crime and AutoLoan
-    # # we split algorithms into fast_algos, kNN_algos, SVM_algos and assign a
-    # # dedicated ccomputer for each type of algorithms.
-    # algos = get_model_by_name(names=['NeuralNet', 'GBDT', 'RBFSVM', 'DT', 'kNN', 'BNB', 'RF'])
-    # fast_algos = get_model_by_name(names=['NeuralNet', 'GBDT', 'DT', 'RF'])
-    # kNN_algos = get_model_by_name(names=['kNN'])
-    # SVM_algos = get_model_by_name(names=['RBFSVM'])
-    
-    # # Adult
-    # result_merged = exp(algos, 5, data_hc_Jlst[0:1], seed=0, result_dir='../results/exp2_2022_03_07_adult_sensible_default')
-
-    # Colleges
-    # hc_col changed
-    # result_merged = exp(algos, 5, data_hc_Jlst[1:2], seed=0, result_dir='../results/exp2_2022_04_10_colleges_sensible_default')
-
-    # # Colleges, EmployeeSalaries
-    # result_merged = exp(algos, 5, data_hc_Jlst[1:3], seed=0, result_dir='../results/exp2_2022_01_18_colleges_employeeSalaries_sensible_default')
-
-    # # TrafficViolations
-    # result_merged = exp(algos, 5, data_hc_Jlst[4:5], seed=0, result_dir='../results/exp2_2022_02_13_Traffic_Violations_sensible_default')
-
-    # # H1BVisa
-    # result_merged = exp(algos, 5, data_hc_Jlst[5:6], seed=0, result_dir='../results/exp2_2022_02_13_visa_sampling_sensible_default')
-    
-    # # RoadSafety
-    # result_merged = exp(algos, 5, data_hc_Jlst[7:8], seed=0, result_dir='../results/exp2_2022_02_20_road_safety_sampling_default')
-    # # # kNN parameter changed, repeat experiment and replace results manually
-    # # result_merged = exp(kNN_algos, 5, data_hc_Jlst[7:8], seed=0, result_dir='../results/exp2_2022_03_07_road_safety_sampling_kNN_default')
-    
-    # # Crime, SVM is too slow to be practical and excluded from experiments
-    # result_merged = exp(fast_algos, 5, data_hc_Jlst[3:4], seed=0, result_dir='../results/exp2_2022_02_21_crime_Crm_Cd_Desc_default')
-    # result_merged = exp(kNN_algos, 5, data_hc_Jlst[3:4], seed=0, result_dir='../results/exp2_2022_03_07_crime_kNN_SVM_default')
-
-    # # Autoloan, kNN and SVM are executed on separate computer
-    # result_merged = exp(fast_algos, 5, data_hc_Jlst[6:7], seed=0, result_dir='../results/exp2_2022_03_03_auto_loan_sampling_default')
-    # result_merged = exp(kNN_algos, 5, data_hc_Jlst[6:7], seed=0, result_dir='../results/exp2_2022_03_07_auto_loan_sampling_kNN_default')
-    # result_merged = exp(SVM_algos, 5, data_hc_Jlst[6:7], seed=0, result_dir='../results/exp2_2022_03_07_auto_loan_sampling_SVM_default')
-
-    # # Manually merge the experiment results, see ../results/exp2_mhe_vs_pca_details.xlsx
-    # # Result for BNB is deleted, as BNB requires all X to be binary, not approperiate for our datasets
-
-
-    # #########################################
-    # # According to Friedman, GBDT using mse is numerically more stable than friedman_mse
-    # # However, the default in Scikit-learn is set to friendman_mse, we would like to see
-    # # if there is any meaningful difference
-    # # In fact, there is very little difference on our datasets, so we stick to Scikit-learn's default
-    # GBDT_MSE = get_model_by_name(names=['GBDT_MSE']) 
-    # result_merged = exp(GBDT_MSE, 5, data_hc_Jlst[0:3], seed=0, result_dir='../results/exp2_2022_04_15_GBDT_012_sensible_default')
-    # result_merged = exp(GBDT_MSE, 5, data_hc_Jlst, seed=0, result_dir='../results/exp2_2022_04_15_GBDT_sensible_default')
-
-    
-    # #########################################
-    # # Created a RF_Fast, random forest that use smaller tree and smaller samples when build tree
-    # # So that we can compare whether a large tree is indeed better
-    # RF_fast = get_model_by_name(names=['RF_Fast']) 
-    # result_merged = exp(RF_fast, 5, data_hc_Jlst, seed=0, result_dir='../results/exp2_2022_04_15_RF_Fast_sensible_default')
-
     
     
     dirname = '../results/exp22_04_19/'
